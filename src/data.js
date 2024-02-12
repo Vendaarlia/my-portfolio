@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Photografy",
+    subtitle: "Urban Elegance",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Gambar-gambar kota yang menampilkan keanggunan arsitektur modern dan kehidupan perkotaan yang dinamis.",
+    image: "https://images.unsplash.com/photo-1697654795677-856d689749fc?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fFVyYmFuJTIwRWxlZ2FuY2V8ZW58MHx8MHx8fDA%3D",
+    link: "https://github.com/Vendaarlia",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Photografy",
+    subtitle: "Nature's Harmony",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Potret alam yang memukau dengan keseimbangan warna, tekstur, dan keindahan alam yang menenangkan.",
+    image: "https://images.unsplash.com/photo-1689009117682-2ebb831164ff?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TmF0dXJlJ3MlMjBIYXJtb255fGVufDB8fDB8fHww",
+    link: "https://github.com/Vendaarlia",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Photografy",
+    subtitle: "Product Showcase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Fotografi produk yang menampilkan detail terbaik dan memperkuat pesan merek untuk pemasaran yang efektif.",
+    image: "https://images.unsplash.com/photo-1697638322890-298681e62486?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UHJvZHVjdCUyMFNob3djYXNlfGVufDB8fDB8fHww",
+    link: "https://github.com/Vendaarlia",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Photografy",
+    subtitle: "Corporate Portraits",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Potret profesional individu dan tim yang menampilkan kepercayaan diri dan kredibilitas untuk branding bisnis yang kuat.",
+    image: "https://images.unsplash.com/photo-1554774853-719586f82d77?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fENvcnBvcmF0ZSUyMFBvcnRyYWl0c3xlbnwwfHwwfHx8MA%3D%3D",
+    link: "https://github.com/Vendaarlia",
   },
 ];
 
