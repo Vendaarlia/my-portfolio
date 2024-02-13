@@ -9,7 +9,7 @@ import Navbar from "./components/Navbar";
 
 export default function App() {
   return (
-    <main className="text-gray-400 body-font">
+    <main className="text-black body-font">
       <Navbar />
       <About />
       <Projects />

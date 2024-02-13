@@ -32,7 +32,7 @@ function Contact() {
                         <h2 className='title-font font-semibold text-white tracking-widest text-xs'>
                             ADDDRESS
                         </h2>
-                        <p className='mt-1'>
+                        <p className='mt-1 text-white'>
                             93 Demak Timur. <br />
                             Surabaya, Indonesia
                         </p>
@@ -41,42 +41,42 @@ function Contact() {
                         <h2 className='title-font font-semibold text-white tracking-widest text-xs'>
                             EMAIL
                         </h2>
-                        <a className='text-indigo-400 leading-relaxed'>
+                        <a className='text-green-400 leading-relaxed'>
                             vendaarlia9@gmail.com
                         </a>
                         <h2 className='title-font font-semibold text-white tracking-widest text-xs'>
                             PHONE
                         </h2>
-                        <p className='leading-relaxed'>123-456-789</p>
+                        <p className='leading-relaxed text-white'>123-456-789</p>
                     </div>
                 </div>
             </div>
             <form netlify name='contact' onSubmit={handleSubmit} className='lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0'>
-                <h2 className='text-white sm:text-4xl text-3xl mb-1 font-medium title-font'>
+                <h2 className='text-black sm:text-4xl text-3xl mb-1 font-medium title-font'>
                     Join Guild
                 </h2>
                 <p className="leading-relaxed mb-5">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse iusto recusandae odit obcaecati a, fugiat iste rerum id quos officiis quasi voluptas illo error adipisci voluptate? Distinctio blanditiis repudiandae incidunt?
+                Ready to take your marketing and branding efforts to the next level with stunning photography? Contact SnapVision today to discuss your project requirements and receive a personalized quote.
                 </p>
                 <div className="relative mb-4">
-                    <label htmlFor="name" className='leading-7 text-sm text-gray-400'>
+                    <label htmlFor="name" className='leading-7 text-sm text-black'>
                         Name
                     </label>
-                    <input type="text" name="name" id="name" onChange={(e) => setName(e.target.value)} className='w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focuse:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
+                    <input type="text" name="name" id="name" onChange={(e) => setName(e.target.value)} className='w-full bg-gray-100 rounded border border-gray-700 focus:border-green-400 focuse:ring-2 focus:ring-green-400 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
                 </div>
                 <div className="relative">
-                    <label htmlFor="name" className='leading-7 text-sm text-gray-400'>
+                    <label htmlFor="name" className='leading-7 text-sm text-black'>
                         Email
                     </label>
-                    <input type="text" name="name" id="name" onChange={(e) => setEmail(e.target.value)} className='w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focuse:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
+                    <input type="text" name="name" id="name" onChange={(e) => setEmail(e.target.value)} className='w-full bg-gray-100 rounded border border-gray-700 focus:border-green-400 focuse:ring-2 focus:ring-green-400 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
                 </div>
                 <div className="relative">
-                    <label htmlFor="name" className='leading-7 text-sm text-gray-400'>
+                    <label htmlFor="name" className='leading-7 text-sm text-black'>
                         Message
                     </label>
-                    <input type="text" name="name" id="name" onChange={(e) => setMessage(e.target.value)} className='w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focuse:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
+                    <input type="text" name="name" id="name" onChange={(e) => setMessage(e.target.value)} className='w-full bg-gray-100 rounded border border-gray-700 focus:border-green-400 focuse:ring-2 focus:ring-green-400 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
                 </div>
-                <button type="submit" className='text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded texxt-lg mt-4'>
+                <button type="submit" className='text-white bg-green-400 border-0 py-2 px-6 focus:outline-none hover:bg-green-400 rounded texxt-lg mt-4'>
                     Submit
                 </button>
             </form>
