@@ -14,7 +14,7 @@ function Testimonials() {
             <div className='flex flex-wrap m-4'>
                 {testimonials.map((testimonial) => (
                     <div className='p-4 md:w-1/2 w-full'>
-                        <div className='h-full bg-gray-800 p-8 rounded'>
+                        <div className='h-full bg-gray-900 p-8 rounded'>
                             <ChatIcon className='block text-white w-8 textgray-500 mb-4' />
                             <p className='leading-relaxed text-white mb-6'>{testimonial.quote}</p>
                             <div className='inline-flex items-center'>

@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Nature's Harmony",
     description:
       "Potret alam yang memukau dengan keseimbangan warna, tekstur, dan keindahan alam yang menenangkan.",
-    image: "https://images.unsplash.com/photo-1689009117682-2ebb831164ff?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TmF0dXJlJ3MlMjBIYXJtb255fGVufDB8fDB8fHww",
+    image: "https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
     link: "https://github.com/Vendaarlia",
   },
   {
