@@ -23,7 +23,7 @@ function navbar() {
                     <div className="hidden md:block">
                     <a href="#about" className="  hover:bg-green-400 px-3 py-2 rounded-md text-sm font-medium">About</a>
                     <a href="#project" className="  hover:bg-green-400 px-3 py-2 rounded-md text-sm font-medium">Project</a>
-                    <a href="skills" className="  hover:bg-green-400 px-3 py-2 rounded-md text-sm font-medium">Skills</a>
+                    <a href="#skills" className="  hover:bg-green-400 px-3 py-2 rounded-md text-sm font-medium">Skills</a>
                     <a href="#contact" className="  hover:bg-green-400 px-3 py-2 rounded-md text-sm font-medium">Contact</a>
                     </div>
                     <div className="block md:hidden">
