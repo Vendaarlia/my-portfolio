@@ -53,7 +53,7 @@ function Contact() {
             </div>
             <form netlify name='contact' onSubmit={handleSubmit} className='lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0'>
                 <h2 className='text-black sm:text-4xl text-3xl mb-1 font-medium title-font'>
-                    Join Guild
+                    Connect With Us
                 </h2>
                 <p className="leading-relaxed mb-5">
                 Ready to take your marketing and branding efforts to the next level with stunning photography? Contact SnapVision today to discuss your project requirements and receive a personalized quote.
