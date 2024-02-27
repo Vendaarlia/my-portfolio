@@ -62,19 +62,19 @@ function Contact() {
                     <label htmlFor="name" className='leading-7 text-sm text-black'>
                         Name
                     </label>
-                    <input type="text" name="name" id="name" onChange={(e) => setName(e.target.value)} className='w-full bg-gray-100 rounded border border-gray-700 focus:border-green-400 focuse:ring-2 focus:ring-green-400 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
+                    <input type="text" name="name" id="name" onChange={(e) => setName(e.target.value)} className='w-full bg-gray-100 rounded border border-gray-700 focus:border-green-400 focuse:ring-2 focus:ring-green-400 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
                 </div>
                 <div className="relative">
                     <label htmlFor="name" className='leading-7 text-sm text-black'>
                         Email
                     </label>
-                    <input type="text" name="name" id="name" onChange={(e) => setEmail(e.target.value)} className='w-full bg-gray-100 rounded border border-gray-700 focus:border-green-400 focuse:ring-2 focus:ring-green-400 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
+                    <input type="text" name="name" id="name" onChange={(e) => setEmail(e.target.value)} className='w-full bg-gray-100 rounded border border-gray-700 focus:border-green-400 focuse:ring-2 focus:ring-green-400 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
                 </div>
                 <div className="relative">
                     <label htmlFor="name" className='leading-7 text-sm text-black'>
                         Message
                     </label>
-                    <input type="text" name="name" id="name" onChange={(e) => setMessage(e.target.value)} className='w-full bg-gray-100 rounded border border-gray-700 focus:border-green-400 focuse:ring-2 focus:ring-green-400 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
+                    <input type="text" name="name" id="name" onChange={(e) => setMessage(e.target.value)} className='w-full bg-gray-100 rounded border border-gray-700 focus:border-green-400 focuse:ring-2 focus:ring-green-400 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out' />
                 </div>
                 <button type="submit" className='text-white bg-green-400 border-0 py-2 px-6 focus:outline-none hover:bg-green-400 rounded texxt-lg mt-4'>
                     Submit
