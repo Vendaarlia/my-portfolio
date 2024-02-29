@@ -7,7 +7,7 @@ function About() {
 <<<<<<< Updated upstream
             <div className='w-screen h-screen p-12 pb-20 flex flex-col justify-end bg-black bg-opacity-50'>
 =======
-            <div className='w-screen h-screen p-12 pb-24 flex flex-col justify-end bg-black bg-opacity-50'>
+            <div className='w-screen h-screen p-12 pb-32 flex flex-col justify-end bg-black bg-opacity-50'>
 >>>>>>> Stashed changes
                 <div className='justify-center items-center'>
                     <h1 className=' text-4xl text text-white'>
