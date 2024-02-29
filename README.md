@@ -1,4 +1,4 @@
-# Photography & Marketing Agency Portfolio
+# SnapVision Photography & Marketing Agency Portfolio
 ___
 Welcome to the Photography & Marketing Agency Portfolio project! This repository showcases the work of our agency in both photography and marketing services. We utilize React and the map function to display projects and testimonials from separate data arrays stored in separate files.
 
