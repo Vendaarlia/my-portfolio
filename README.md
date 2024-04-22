@@ -1,6 +1,6 @@
 # SnapVision Photography & Marketing Agency Portfolio
 ___
-Welcome to the Photography & Marketing Agency Portfolio project! This repository showcases the work of our agency in both photography and marketing services. We utilize React and the map function to display projects and testimonials from separate data arrays stored in separate files.
+Welcome to the Photography & Marketing Agency Portfolio project! This repository showcases the work of our agency in both photography and marketing services. We utilize React and the .map() metod to display projects and testimonials from separate data arrays stored in separate files.
 
 ## Overview
 
@@ -17,11 +17,6 @@ This project serves as a platform to exhibit our agency's photography projects a
 
 ## Usage
 ### To view the portfolio website locally:
-
-Clone this repository:
-```bash
-git clone https://github.com/your-username/your-portfolio.git
-```
 
 Install dependencies:
 ```bash
