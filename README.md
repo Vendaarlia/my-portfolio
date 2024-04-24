@@ -10,10 +10,19 @@ This project serves as a platform to exhibit our agency's photography projects a
 #### src/data: Stores separate arrays for projects and testimonials.
 #### public: Assets such as images and fonts.
 
+## Role
+I am trusted to add frontend features easy to change
+
+### Project goal
+I was asked to create a collection and testimonial project that was easy to change the content without damaging the design. Note that it has to be easy and can add as much content as you like and you don't need to understand HTML and CSS. without any additional infrastructure and easy to maintain.
+
+### Solution
+To achieve this request, I used the .map() array method to retrieve the content from the JSON file that I prepared to change the array. I also made documentation on how to add content and warnings about what should not be changed in the JSON file. I use an internal data system to prevent the emergence of additional costs, so I use technology that already exists and can be utilized, even though it is not "very easy" to use, there is still effort to use it. 
+
 ## Technologies Used
 
 #### React: A JavaScript library for building user interfaces.
-#### CSS: Styling language for designing the look and feel of the website.
+#### Tailwind CSS: Styling language for designing the look and feel of the website.
 
 ## demo
 [SnapVision](https://snapvision-reactmapdata.vercel.app/)
